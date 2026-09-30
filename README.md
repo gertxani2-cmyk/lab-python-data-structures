@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | Python Data structures
+# LAB | Python Lambda Functions, Map, Reduce, Filter
 
 <details>
   <summary>
@@ -11,9 +11,11 @@
 
   Upon completion of this exercise, you will be able to:
   
-  - Use different data structures such as lists, dictionaries, sets and tuples, to store and manipulate data.
-  - Access and modify data stored in data structures using indexing, slicing, or built-in methods.
-  
+- Practice writing efficient and concise code using lambda functions.
+- Learn how to use map, reduce, and filter to manipulate and transform data in Python.
+- Practice combining lambda functions with map(), filter(), and reduce() to solve practical problems
+- Acquire familiarity with lambda functions to establish a foundation of understanding for working with Python's apply and applymap method in the future.
+
   <br>
   <hr> 
 
@@ -23,38 +25,34 @@
   <summary>
    <h2>Prerequisites</h2>
   </summary>
+
 Before this starting this lab, you should have learnt about:
 
-- Basic Python syntax
-- Variables
 - Data types, operators and structures
-
+- Flow control (if-else statements and loops)
+- Functions
+ 
   <br>
   <hr> 
 
 </details>
 
+
 ## Introduction
 
-Welcome to your first data analytics bootcamp lab! In this lab, you will have the opportunity to dive into one of the fundamental building blocks of Python programming: data structures.
+Welcome to the lab on lambda functions, map, reduce, and filter in Python! In this lab, we will learn how to use lambda functions to create anonymous functions and apply them with built-in functions like map, reduce, and filter. These tools are very useful when manipulating data, and can be used to save time and create more efficient code.
 
-As you may already know, data structures are collections of values that can be used to organize and manipulate data more efficiently, such as lists, dictionaries, sets, and tuples.
-
-Understanding data structures is essential to working with data in any programming language. It is a common practice to modify or manipulate data structures when performing various operations, such as filtering data, performing calculations, or extracting specific data elements.
-
-Through a series of lab exercises, you will have the opportunity to apply the concepts and techniques learned in class and gain a solid understanding of data structures. 
+Throughout the lab, we will practice creating lambda functions and applying them with map, reduce, and filter to solve various problems. By the end of the lab, you should feel comfortable using these tools and understanding their use cases. Let's get started!
 
 <br>
 
 **Happy coding!** :heart:
 
 
-
 ## Requirements
 
 - Fork this repo
 - Clone it to your machine
-
 
 ## Getting Started
 
@@ -71,6 +69,7 @@ git push origin master
 ```
 
 - Paste the link of your lab in Student Portal.
+
 
 ## FAQs
 <details>
